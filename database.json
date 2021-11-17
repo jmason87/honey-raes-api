@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Billy Billyson",
+            "specialty": "Laptops"
+        },
+        {
+            "id": 4,
+            "name": "Susie Smart",
+            "specialty": "Displays"
         }
     ],
     "serviceTickets": [
